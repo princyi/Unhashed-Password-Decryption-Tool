@@ -2,8 +2,7 @@
 I built a tool to demonstrate the dangers of weak, unhashed passwords and highlight the importance of secure password practices.
 This code is only for dyscription "decrypt"
 
-
-###Code Breakdown: for decrypt
+# Code Breakdown: for decrypting
 Input Variables:
 
 unhashed_password = "abc123": The target password you're trying to crack.
@@ -36,7 +35,7 @@ Output:
 
 If the password is decrypted, the code prints the password; otherwise, it prints that decryption failed.
 
-Encryption Part:-
+# Encryption Part:-
 To provide encryption for this project, you can hash the password using a secure algorithm like SHA-256. This ensures that even if passwords are exposed, they cannot be easily cracked like the unhashed password example.
 
 
