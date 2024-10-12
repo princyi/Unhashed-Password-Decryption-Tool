@@ -1,4 +1,4 @@
-# Unhashed-Password-Decryption-Tool
+# Unhashed-Password-Decryption-Tool (Brute Force Attack)
 I built a tool to demonstrate the dangers of weak, unhashed passwords and highlight the importance of secure password practices.
 This code is only for dyscription "decrypt"
 
